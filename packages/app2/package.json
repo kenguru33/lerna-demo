@@ -12,5 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "koko": "^0.6.0",
+    "prettier": "^2.3.2"
   }
 }
